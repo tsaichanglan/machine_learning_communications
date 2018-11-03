@@ -1,4 +1,4 @@
-# machine_learning_communications
+# Machine Learning for Communications
 My study on machine learning for wireless communications
 
 Reference
